@@ -1,6 +1,8 @@
 docker-gen
 =====
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/docker-gen.svg)](https://www.guardrails.io)
+
 `docker-gen` is a file generator that renders templates using docker container meta-data.
 
 It can be used to generate various kinds of files for:
